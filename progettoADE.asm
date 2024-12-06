@@ -1,5 +1,3 @@
-#Matteo Menichetti nr. matricola: 7013974 mail: matteo.menichetti@stud.unifi.it
-
 .data
 
 bufferMsg: .space 256 #direttiva utilizzata per allocare 256 byte per il messaggio
